@@ -1,0 +1,22 @@
+
+pitjar 			(755,330)
+boton heroe		(600,700)
+subir heroe		(300,680)	(238,105,20)
+boton mercenarios	(700,700)
+subir mercenario	(840,510)+(0,70)	
+					(73,158,186)-(136,136,136)
+					(247,209,24) new hability
+
+luchar again jefe	(860,115)	(240,110,64)
+boton bajar menu	(915,430)
+
+
+abilities bbox		(540+60*i, 610, 610+60*i, 680)
+abilities pixel		(560+65*i, 650)
+
+slide up		(720, 520) to (720, 725) (2 slots)
+big slide down		(720, 655) to (720, 300)
+
+mercenary first bbox	(525, 470, 600, 575)
+
+
